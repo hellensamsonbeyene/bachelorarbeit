@@ -1,0 +1,12 @@
+#Standardnachricht
+Das habe ich leider nicht verstanden
+
+#Entitäten und Antworten
+
+Vorlesung : Besuchen Sie interessante Vorlesungen zu verschiedenen Fachgebieten.
+Professoren : Unsere erfahrenen Professoren stehen Ihnen für Fragen und Diskussionen zur Verfügung.
+Professorin: Test1.
+Bibliothek : Nutzen Sie unsere gut ausgestattete Bibliothek für Ihr Studium.
+Studium : Erforschen Sie unsere vielfältigen Studiengänge und finden Sie den passenden für sich.
+Studentenwohnheim : Informationen zu Unterkünften für Studierende.
+Campus : Erkunden Sie unseren schönen Campus und seine Einrichtungen.

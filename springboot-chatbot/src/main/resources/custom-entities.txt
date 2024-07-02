@@ -1,0 +1,8 @@
+#Standardnachricht
+
+Das habe ich leider nicht verstanden.
+
+#Entitäten und Antworten
+Frage: Das ist die Antwort auf eine allgemeine Frage
+Bewerbung: Dies sind Informationen zur Bewerbung
+Support: Bei technischen Problemen bitte den Support kontaktieren

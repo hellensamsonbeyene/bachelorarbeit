@@ -1,0 +1,5 @@
+#Standardnachricht
+ Sentence
+
+#Entitäten und Antworten
+ entity:sentence.

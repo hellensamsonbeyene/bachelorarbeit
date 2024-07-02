@@ -1,0 +1,8 @@
+#Standardnachricht
+Entschuldigung, das habe ich nicht verstanden.
+
+#Entitäten und Antworten
+Temperatur: Die aktuelle Temperatur in Berlin beträgt 20 Grad Celsius.
+Wettervorhersage: Die Wettervorhersage für die nächsten Tage in Berlin sieht sonnig aus.
+Niederschlag: In Berlin wird kein Niederschlag erwartet.
+Wind: Der Wind in Berlin weht mit einer Geschwindigkeit von 15 km/h aus Richtung Nordwest.

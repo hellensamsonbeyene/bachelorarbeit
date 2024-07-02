@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@700&display=swap');
+
+.pageTitle{
+    font-family: 'Hind', sans-serif !important;
+    font-style: italic;
+    line-height: normal !important;
+    color: white;
+    transform: translateY(8px);
+}
+
+.how-to-container {
+    max-width: 600px;
+    margin: 0 auto;
+    color: #002C34;
+}
+
+.how-to-step {
+    padding-left: 20px;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.how-to-subtitle {
+    padding-left: 20px;
+}
