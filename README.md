@@ -1,4 +1,4 @@
-# Bachelorarbeit
+# Bachelorarbeit von Hellen Samson Beyene (TU Berlin 2024)
 
 
 
